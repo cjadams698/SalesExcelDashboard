@@ -1,5 +1,5 @@
 # SalesExcelDashboard
-A dashboard made in excel looking at sales through age group, gender, channel, and location. 
+A dashboard made in excel looking at sales through age group, gender, channel, and location. The SalesReportRawData.xlsx is the spreadsheet and data that I started with. The SalesReportDashboardFinal.xlsx is the end result of my project. 
 
 Insights:
 Women are much more likely to buy than men (~65%).
